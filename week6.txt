@@ -1,4 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hom nay di hoc
 nghi hoc
 hom nay di hoc ma nao hoi tan
+
+hom nay di hoc ma nao hoi tan
+ngu
+>>>>>>> week1
